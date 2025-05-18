@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vikranteditz26@gmail.com**
 
-- ⚡ Fun fact **Red hat certificate by Infosys Springboard**
+- ⚡ Fact **Red hat certificate by Infosys Springboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
