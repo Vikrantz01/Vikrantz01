@@ -1,7 +1,7 @@
-![MasterHead]()
+![MasterHead](https://github.com/Vikrantz01/Vikrantz01/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Vikrantz01/Vikrantz01/blob/main/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f4334453132415147435744496b715a5f7832412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f61727469636c652d636f76.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantz01&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantz01" /> </p>
 
 - 🔭 I’m currently working on **Ai Voice Assistant**
