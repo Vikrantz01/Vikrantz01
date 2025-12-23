@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"> <img src="https://iconscout.com/lottie-animation/programming-code-animation_3262955" alt="vikrantz01" /> </p>
+<p align="right"> <img src="https://gist.github.com/106aa0f37f016eda7ec65de5acb90471.git" alt="vikrantz01" /> </p>
 
 - 🔭 I’m currently working on **Ai Voice Assistant**
 
