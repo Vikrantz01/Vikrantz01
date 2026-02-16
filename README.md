@@ -3,9 +3,11 @@
 <h3 align="center">A frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f4334453132415147435744496b715a5f7832412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f61727469636c652d636f76.gif">
 
-<br>🔭 I’m currently working on Ai Voice Assistant<br><br>🌱 I’m currently learning Mern Stack Development<br><br>💬 Ask  AI Studio
+<br>🔭 I’m currently working on Ai Voice Assistant<br><br>🌱 I’m currently learning Mern Stack Development<br><br>
 
+💬 Ask me about **Web Devlopment,Python**
 
+- 📫 How to reach me **vikranteditz26@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Vikrantz01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-suman-b03228334) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikr2962) 
 
